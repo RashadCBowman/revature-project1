@@ -1,0 +1,799 @@
+2021-04-29 11:49:44 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 11:49:46 TRACE EmployeeDaoCass:55 - UpdateEmployee!
+2021-04-29 11:49:46 TRACE EmployeeDaoCass:61 - SimpleStatement!
+2021-04-29 11:49:46 TRACE EmployeeDaoCass:64 - BoundStatement!
+2021-04-29 11:49:46 TRACE EmployeeDaoCass:70 - Execute bound!
+2021-04-29 11:49:47 TRACE EmployeeDaoCass:72 - Method Complete!
+2021-04-29 14:55:55 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 17:26:31 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 17:30:23 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 17:31:03 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 17:37:46 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 18:59:02 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:02:37 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:05:00 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:05:50 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:06:33 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:14:34 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:15:44 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:16:24 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:17:06 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:39:01 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:39:03 TRACE TuitionReimbursementFormDaoCass:58 - UpdateForm!
+2021-04-29 19:39:03 TRACE TuitionReimbursementFormDaoCass:75 - SimpleStatement!
+2021-04-29 19:39:03 TRACE TuitionReimbursementFormDaoCass:78 - BoundStatement!
+2021-04-29 19:39:56 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:39:58 TRACE TuitionReimbursementFormDaoCass:58 - UpdateForm!
+2021-04-29 19:39:58 TRACE TuitionReimbursementFormDaoCass:74 - SimpleStatement!
+2021-04-29 19:39:58 TRACE TuitionReimbursementFormDaoCass:77 - BoundStatement!
+2021-04-29 19:43:53 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:43:56 TRACE TuitionReimbursementFormDaoCass:58 - UpdateForm!
+2021-04-29 19:43:56 TRACE TuitionReimbursementFormDaoCass:74 - SimpleStatement!
+2021-04-29 19:43:56 TRACE TuitionReimbursementFormDaoCass:77 - BoundStatement!
+2021-04-29 19:47:39 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:47:41 TRACE TuitionReimbursementFormDaoCass:58 - UpdateForm!
+2021-04-29 19:47:41 TRACE TuitionReimbursementFormDaoCass:74 - SimpleStatement!
+2021-04-29 19:47:41 TRACE TuitionReimbursementFormDaoCass:77 - BoundStatement!
+2021-04-29 19:53:47 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-29 19:53:50 TRACE TuitionReimbursementFormDaoCass:58 - UpdateForm!
+2021-04-29 19:53:50 TRACE TuitionReimbursementFormDaoCass:74 - SimpleStatement!
+2021-04-29 19:53:50 TRACE TuitionReimbursementFormDaoCass:77 - BoundStatement!
+2021-04-29 19:53:50 TRACE TuitionReimbursementFormDaoCass:93 - Execute bound!
+2021-04-29 19:53:50 TRACE TuitionReimbursementFormDaoCass:95 - Method Complete!
+2021-04-30 05:45:13 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:00:52 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:03:17 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:04:18 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:15:39 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:15:42 TRACE S3Util:34 - Uploading file as letsdodungeon.png
+2021-04-30 06:24:21 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:24:24 TRACE S3Util:34 - Uploading file as letsdodungeon.png
+2021-04-30 06:53:24 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 06:53:27 TRACE S3Util:43 - Retrieving Data from S3: letsdodungeon.png
+2021-04-30 06:53:43 TRACE S3Util:34 - Uploading file as letsdodungeon.png
+2021-04-30 06:53:50 TRACE S3Util:43 - Retrieving Data from S3: letsdodungeon.png
+2021-04-30 07:03:41 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:04:28 TRACE S3Util:34 - Uploading file as FakePresentation.doc
+2021-04-30 07:38:08 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:38:11 TRACE EmployeeController:28 - register
+2021-04-30 07:38:30 TRACE EmployeeController:28 - register
+2021-04-30 07:42:26 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:42:28 TRACE EmployeeController:28 - register
+2021-04-30 07:44:16 TRACE EmployeeController:28 - register
+2021-04-30 07:44:30 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:44:33 TRACE EmployeeController:28 - register
+2021-04-30 07:45:02 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:45:05 TRACE EmployeeController:28 - register
+2021-04-30 07:45:54 TRACE EmployeeController:28 - register
+2021-04-30 07:47:21 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 07:47:23 TRACE EmployeeController:28 - register
+2021-04-30 07:50:41 TRACE EmployeeController:28 - register
+2021-04-30 09:20:33 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:27:44 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:27:46 TRACE EmployeeController:28 - register
+2021-04-30 09:29:16 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:29:19 TRACE EmployeeController:58 - register
+2021-04-30 09:30:03 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:30:05 TRACE EmployeeController:28 - register
+2021-04-30 09:30:05 TRACE EmployeeController:30 - name
+2021-04-30 09:30:05 TRACE EmployeeController:32 - pass
+2021-04-30 09:30:05 TRACE EmployeeController:34 - email
+2021-04-30 09:30:05 TRACE EmployeeController:36 - location
+2021-04-30 09:30:05 TRACE EmployeeController:38 - description
+2021-04-30 09:30:05 TRACE EmployeeController:40 - cost
+2021-04-30 09:30:05 TRACE EmployeeController:42 - grading Format
+2021-04-30 09:30:41 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:30:44 TRACE EmployeeController:28 - register
+2021-04-30 09:30:44 TRACE EmployeeController:30 - name
+2021-04-30 09:30:44 TRACE EmployeeController:32 - pass
+2021-04-30 09:30:44 TRACE EmployeeController:34 - email
+2021-04-30 09:30:44 TRACE EmployeeController:36 - location
+2021-04-30 09:30:44 TRACE EmployeeController:38 - description
+2021-04-30 09:30:44 TRACE EmployeeController:40 - cost
+2021-04-30 09:30:44 TRACE EmployeeController:42 - grading Format skip
+2021-04-30 09:30:44 TRACE EmployeeController:44 - typeofEvent
+2021-04-30 09:33:34 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:33:37 TRACE EmployeeController:28 - register
+2021-04-30 09:33:37 TRACE EmployeeController:30 - name
+2021-04-30 09:33:37 TRACE EmployeeController:32 - pass
+2021-04-30 09:33:37 TRACE EmployeeController:34 - email
+2021-04-30 09:33:37 TRACE EmployeeController:36 - location
+2021-04-30 09:33:37 TRACE EmployeeController:38 - description
+2021-04-30 09:33:37 TRACE EmployeeController:40 - cost
+2021-04-30 09:33:37 TRACE EmployeeController:42 - grading Format skip
+2021-04-30 09:33:37 TRACE EmployeeController:44 - typeofEvent
+2021-04-30 09:34:14 TRACE EmployeeController:58 - register
+2021-04-30 09:35:09 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:35:12 TRACE EmployeeController:58 - register
+2021-04-30 09:36:41 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:36:43 TRACE EmployeeController:58 - register
+2021-04-30 09:38:15 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:38:17 TRACE EmployeeController:58 - register
+2021-04-30 09:39:50 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:39:53 TRACE EmployeeController:58 - register
+2021-04-30 09:40:57 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:40:59 TRACE EmployeeController:58 - register
+2021-04-30 09:44:07 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:44:10 TRACE EmployeeController:58 - register
+2021-04-30 09:45:37 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:45:40 TRACE EmployeeController:58 - register
+2021-04-30 09:45:54 TRACE EmployeeController:58 - register
+2021-04-30 09:48:00 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:48:03 TRACE EmployeeController:58 - register
+2021-04-30 09:48:06 TRACE EmployeeController:58 - register
+2021-04-30 09:48:09 TRACE EmployeeController:58 - register
+2021-04-30 09:48:11 TRACE EmployeeController:58 - register
+2021-04-30 09:48:20 TRACE EmployeeController:74 - login
+2021-04-30 09:51:49 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:51:52 TRACE EmployeeController:74 - login
+2021-04-30 09:51:52 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 09:51:52 TRACE EmployeeDaoCass:137 - Employee is Employee [id=1, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 09:52:32 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 09:52:34 TRACE EmployeeController:74 - login
+2021-04-30 09:52:34 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 09:52:34 TRACE EmployeeDaoCass:137 - Employee is Employee [id=1, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 09:52:34 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 09:52:34 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:01:40 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:01:43 TRACE EmployeeController:58 - register
+2021-04-30 10:01:49 TRACE EmployeeController:58 - register
+2021-04-30 10:21:28 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:21:35 TRACE EmployeeController:74 - login
+2021-04-30 10:21:35 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:21:35 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:21:35 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:21:35 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:24:25 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:24:27 TRACE EmployeeController:58 - register
+2021-04-30 10:25:03 TRACE EmployeeController:74 - login
+2021-04-30 10:25:03 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:25:03 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:25:03 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:25:03 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:25:10 TRACE EmployeeController:58 - register
+2021-04-30 10:25:19 TRACE EmployeeController:74 - login
+2021-04-30 10:25:45 TRACE EmployeeController:98 - logout
+2021-04-30 10:25:50 TRACE EmployeeController:58 - register
+2021-04-30 10:25:56 TRACE EmployeeController:74 - login
+2021-04-30 10:25:56 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:25:56 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:25:56 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:25:56 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:26:54 TRACE EmployeeController:98 - logout
+2021-04-30 10:26:57 TRACE EmployeeController:74 - login
+2021-04-30 10:26:57 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:26:57 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:26:57 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:26:57 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:27:20 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:27:20 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:27:20 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:27:20 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:27:20 TRACE EmployeeServiceImpl:44 - null
+2021-04-30 10:27:20 TRACE EmployeeServiceImpl:86 - Nothing was changed FALSE
+2021-04-30 10:29:00 TRACE EmployeeController:74 - login
+2021-04-30 10:30:00 TRACE EmployeeController:98 - logout
+2021-04-30 10:30:04 TRACE EmployeeController:74 - login
+2021-04-30 10:30:04 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:30:04 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:30:04 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:30:04 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:30:14 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:30:14 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:30:14 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:30:14 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:30:14 TRACE EmployeeServiceImpl:44 - null
+2021-04-30 10:30:14 TRACE EmployeeServiceImpl:86 - Nothing was changed FALSE
+2021-04-30 10:33:31 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:33:33 TRACE EmployeeController:74 - login
+2021-04-30 10:33:33 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:33:33 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:33:33 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:33:33 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:33:47 TRACE EmployeeController:74 - login
+2021-04-30 10:36:01 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:36:03 TRACE EmployeeController:74 - login
+2021-04-30 10:36:03 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:36:03 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:36:03 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:36:03 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:37:19 TRACE EmployeeController:117 - form
+2021-04-30 10:37:19 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:37:19 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:38:29 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:38:31 TRACE EmployeeController:74 - login
+2021-04-30 10:38:31 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:38:32 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:38:32 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:38:32 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:38:34 TRACE EmployeeController:117 - form
+2021-04-30 10:38:34 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:38:34 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:39:41 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:39:44 TRACE EmployeeController:74 - login
+2021-04-30 10:39:44 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:39:44 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:39:44 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:39:44 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:39:46 TRACE EmployeeController:117 - form
+2021-04-30 10:39:46 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:39:46 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:43:02 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:43:04 TRACE EmployeeController:74 - login
+2021-04-30 10:43:04 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:43:04 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:43:04 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:43:04 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:43:06 TRACE EmployeeController:117 - form
+2021-04-30 10:43:06 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:43:06 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:45:14 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:45:17 TRACE EmployeeController:74 - login
+2021-04-30 10:45:17 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:45:17 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:45:17 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:46:07 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:46:09 TRACE EmployeeController:74 - login
+2021-04-30 10:46:09 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:46:09 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:46:09 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:47:29 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:47:32 TRACE EmployeeController:74 - login
+2021-04-30 10:47:32 TRACE EmployeeDaoCass:132 - name is Bob pass is Bob!
+2021-04-30 10:47:32 TRACE EmployeeDaoCass:137 - Employee is Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:47:39 TRACE EmployeeController:117 - form
+2021-04-30 10:47:39 TRACE EmployeeController:119 - Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:47:39 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:47:39 TRACE TuitionReimbursementFormDaoCass:68 - addForm
+2021-04-30 10:47:39 TRACE TuitionReimbursementFormDaoCass:92 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 10:47:39 EDT 2021, dateDue=Fri May 07 10:47:39 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:48:56 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:48:58 TRACE EmployeeController:74 - login
+2021-04-30 10:48:58 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:48:58 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:49:00 TRACE EmployeeController:117 - form
+2021-04-30 10:49:00 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:49:00 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:49:01 TRACE TuitionReimbursementFormDaoCass:68 - addForm
+2021-04-30 10:49:01 TRACE TuitionReimbursementFormDaoCass:92 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 10:49:00 EDT 2021, dateDue=Fri May 07 10:49:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:49:08 TRACE EmployeeController:98 - logout
+2021-04-30 10:49:11 TRACE EmployeeController:74 - login
+2021-04-30 10:49:11 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:49:11 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:49:19 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:49:19 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:49:19 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:50:59 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:51:01 TRACE EmployeeController:74 - login
+2021-04-30 10:51:01 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:51:01 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:51:07 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:51:07 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 10:51:07 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 10:53:12 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:53:15 TRACE EmployeeController:74 - login
+2021-04-30 10:53:15 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:53:15 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:53:20 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:53:20 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:53:20 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:53:21 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:53:21 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 10:53:21 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 10:57:53 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 10:57:55 TRACE EmployeeController:74 - login
+2021-04-30 10:57:55 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 10:57:55 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:57:59 TRACE EmployeeController:117 - form
+2021-04-30 10:57:59 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:57:59 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 10:57:59 TRACE TuitionReimbursementFormDaoCass:68 - addForm
+2021-04-30 10:57:59 TRACE TuitionReimbursementFormDaoCass:92 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 10:57:59 EDT 2021, dateDue=Fri May 07 10:57:59 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:58:08 TRACE EmployeeController:98 - logout
+2021-04-30 10:58:11 TRACE EmployeeController:74 - login
+2021-04-30 10:58:11 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 10:58:11 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 10:58:14 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 10:58:14 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 10:58:14 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:03:10 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:03:12 TRACE EmployeeController:74 - login
+2021-04-30 11:03:12 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 11:03:12 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:03:16 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:03:16 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:03:16 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:04:06 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:04:08 TRACE EmployeeController:74 - login
+2021-04-30 11:04:08 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:04:08 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:04:15 TRACE EmployeeController:117 - form
+2021-04-30 11:04:15 TRACE EmployeeController:119 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:04:15 TRACE EmployeeController:120 - EMPLOYEE
+2021-04-30 11:04:15 TRACE TuitionReimbursementFormDaoCass:68 - addForm
+2021-04-30 11:04:15 TRACE TuitionReimbursementFormDaoCass:92 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 11:04:15 EDT 2021, dateDue=Fri May 07 11:04:15 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:04:38 TRACE EmployeeController:98 - logout
+2021-04-30 11:04:46 TRACE EmployeeController:74 - login
+2021-04-30 11:04:46 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 11:04:46 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:05:28 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:05:28 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:05:28 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:05:29 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:05:29 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:05:29 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:07:16 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:07:20 TRACE EmployeeController:74 - login
+2021-04-30 11:07:20 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 11:07:20 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:07:24 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:07:24 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:07:24 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:09:33 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:09:36 TRACE EmployeeController:74 - login
+2021-04-30 11:09:36 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 11:09:36 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:09:38 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:09:38 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:09:38 TRACE EmployeeServiceImpl:81 - TRUE
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:10:53 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:10:53 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:10:53 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:10:53 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:10:53 TRACE EmployeeServiceImpl:86 - Nothing was changed FALSE
+2021-04-30 11:11:00 TRACE EmployeeController:98 - logout
+2021-04-30 11:11:02 TRACE EmployeeController:74 - login
+2021-04-30 11:11:02 TRACE EmployeeDaoCass:132 - name is DepartmentHead pass is Admin!
+2021-04-30 11:11:02 TRACE EmployeeDaoCass:137 - Employee is Employee [id=3, name=DepartmentHead, pass=Admin, email=Admin@yahoo.com, role=DEPARTMENTHEAD, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss2, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:61 - Approving DepartmentHead
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:11:07 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:11:07 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:11:07 TRACE EmployeeServiceImpl:81 - TRUE
+2021-04-30 11:15:27 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:15:30 TRACE EmployeeController:75 - login
+2021-04-30 11:15:30 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:15:30 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:15:31 TRACE EmployeeController:143 - form
+2021-04-30 11:15:31 TRACE EmployeeController:145 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:15:31 TRACE EmployeeController:146 - EMPLOYEE
+2021-04-30 11:16:17 TRACE EmployeeController:143 - form
+2021-04-30 11:16:17 TRACE EmployeeController:145 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:16:17 TRACE EmployeeController:146 - EMPLOYEE
+2021-04-30 11:16:18 TRACE EmployeeController:143 - form
+2021-04-30 11:16:18 TRACE EmployeeController:145 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:16:18 TRACE EmployeeController:146 - EMPLOYEE
+2021-04-30 11:17:22 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:17:24 TRACE EmployeeController:75 - login
+2021-04-30 11:17:24 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:17:24 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:17:26 TRACE EmployeeController:143 - form
+2021-04-30 11:17:26 TRACE EmployeeController:145 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:17:26 TRACE EmployeeController:146 - EMPLOYEE
+2021-04-30 11:17:26 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:17:26 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:17:26 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:17:26 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:17:26 TRACE EmployeeController:150 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:18:28 TRACE EmployeeController:99 - logout
+2021-04-30 11:18:51 TRACE EmployeeController:75 - login
+2021-04-30 11:18:51 TRACE EmployeeDaoCass:132 - name is Benefitscorrdinator pass is Admin!
+2021-04-30 11:18:51 TRACE EmployeeDaoCass:137 - Employee is Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:18:56 TRACE EmployeeServiceImpl:94 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:20:35 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:20:37 TRACE EmployeeController:75 - login
+2021-04-30 11:20:37 TRACE EmployeeDaoCass:132 - name is Benefitscorrdinator pass is Admin!
+2021-04-30 11:20:38 TRACE EmployeeDaoCass:137 - Employee is Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:20:40 TRACE EmployeeServiceImpl:94 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:20:40 TRACE EmployeeServiceImpl:98 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:20:40 TRACE EmployeeServiceImpl:111 - Reason sent from BC
+2021-04-30 11:20:40 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:20:40 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:20:40 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:20:40 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:20:40 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:20:40 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:20:52 TRACE EmployeeController:99 - logout
+2021-04-30 11:20:53 TRACE EmployeeController:75 - login
+2021-04-30 11:20:53 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:20:53 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:21:23 TRACE EmployeeController:75 - login
+2021-04-30 11:21:28 TRACE EmployeeController:99 - logout
+2021-04-30 11:21:30 TRACE EmployeeController:75 - login
+2021-04-30 11:21:30 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:21:30 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:22:44 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:22:46 TRACE EmployeeController:75 - login
+2021-04-30 11:22:46 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:22:47 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:22:47 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:22:47 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:22:47 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:22:47 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:23:33 TRACE EmployeeController:137 - form
+2021-04-30 11:23:33 TRACE EmployeeController:139 - null
+2021-04-30 11:23:42 TRACE EmployeeController:75 - login
+2021-04-30 11:23:42 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:23:42 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:23:42 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:23:42 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:23:42 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:23:42 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:23:46 TRACE EmployeeController:137 - form
+2021-04-30 11:23:46 TRACE EmployeeController:139 - null
+2021-04-30 11:25:53 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:25:56 TRACE EmployeeController:75 - login
+2021-04-30 11:25:56 TRACE EmployeeDaoCass:132 - name is Ted pass is Ted!
+2021-04-30 11:25:56 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:25:56 TRACE EmployeeController:83 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:26:07 TRACE EmployeeController:139 - form
+2021-04-30 11:26:07 TRACE EmployeeController:141 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:26:07 TRACE EmployeeController:142 - EMPLOYEE
+2021-04-30 11:26:07 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:26:07 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:26:08 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:26:08 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:26:08 TRACE EmployeeController:146 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2, 3], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:26:16 TRACE EmployeeController:95 - logout
+2021-04-30 11:26:18 TRACE EmployeeController:75 - login
+2021-04-30 11:26:18 TRACE EmployeeDaoCass:132 - name is Benefitscorrdinator pass is Admin!
+2021-04-30 11:26:18 TRACE EmployeeDaoCass:137 - Employee is Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:26:18 TRACE EmployeeController:83 - Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:27:12 TRACE EmployeeController:75 - login
+2021-04-30 11:27:21 TRACE EmployeeController:75 - login
+2021-04-30 11:30:56 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:30:59 TRACE EmployeeController:59 - register
+2021-04-30 11:31:25 TRACE EmployeeController:114 - form
+2021-04-30 11:31:25 TRACE EmployeeController:116 - null
+2021-04-30 11:32:03 TRACE CassandraUtil:16 - Establishing connection with Cassandra
+2021-04-30 11:32:06 TRACE EmployeeController:75 - login
+2021-04-30 11:32:06 TRACE EmployeeDaoCass:132 - name is Tim pass is Tim!
+2021-04-30 11:32:06 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:06 TRACE EmployeeController:83 - Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:15 TRACE EmployeeController:114 - form
+2021-04-30 11:32:15 TRACE EmployeeController:116 - Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:15 TRACE EmployeeController:117 - EMPLOYEE
+2021-04-30 11:32:15 TRACE TuitionReimbursementFormDaoCass:68 - addForm
+2021-04-30 11:32:15 TRACE TuitionReimbursementFormDaoCass:92 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 11:32:15 EDT 2021, dateDue=Fri May 07 11:32:15 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:21 TRACE EmployeeController:95 - logout
+2021-04-30 11:32:27 TRACE EmployeeController:75 - login
+2021-04-30 11:32:27 TRACE EmployeeDaoCass:132 - name is DirectSupervisor pass is Admin!
+2021-04-30 11:32:27 TRACE EmployeeDaoCass:137 - Employee is Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:27 TRACE EmployeeController:83 - Employee [id=2, name=DirectSupervisor, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:40 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:32:35 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:32:35 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:35 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:35 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:32:35 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:32:35 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:32:35 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:32:35 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:32:35 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:32:36 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:32:36 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:32:36 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:32:36 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:32:36 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:32:36 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:32:36 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:32:36 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:32:36 TRACE EmployeeServiceImpl:81 - TRUE
+2021-04-30 11:32:44 TRACE EmployeeController:95 - logout
+2021-04-30 11:32:50 TRACE EmployeeController:75 - login
+2021-04-30 11:32:50 TRACE EmployeeDaoCass:132 - name is Tim pass is Tim!
+2021-04-30 11:32:50 TRACE EmployeeDaoCass:137 - Employee is Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:50 TRACE EmployeeController:83 - Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:54 TRACE EmployeeController:139 - form
+2021-04-30 11:32:54 TRACE EmployeeController:141 - Employee [id=8, name=Tim, pass=Tim, email=timmyturner@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:32:54 TRACE EmployeeController:142 - EMPLOYEE
+2021-04-30 11:32:54 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:32:54 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:54 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:32:54 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:32:54 TRACE EmployeeController:146 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:33:14 TRACE EmployeeController:95 - logout
+2021-04-30 11:33:23 TRACE EmployeeController:75 - login
+2021-04-30 11:33:23 TRACE EmployeeDaoCass:132 - name is DepartmentHead pass is Admin!
+2021-04-30 11:33:23 TRACE EmployeeDaoCass:137 - Employee is Employee [id=3, name=DepartmentHead, pass=Admin, email=Admin@yahoo.com, role=DEPARTMENTHEAD, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss2, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:33:23 TRACE EmployeeController:83 - Employee [id=3, name=DepartmentHead, pass=Admin, email=Admin@yahoo.com, role=DEPARTMENTHEAD, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss2, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:33:36 TRACE EmployeeServiceImpl:94 - Employee [id=8, name=Ted, pass=Ted, email=teddybear@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Nice Guy, cost=479.99, gradingFormat=A, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=["Lack of Information"]]
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:33:36 TRACE EmployeeServiceImpl:98 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:33:36 TRACE EmployeeServiceImpl:107 - Reason sent from DH
+2021-04-30 11:33:36 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:33:36 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:33:36 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:33:36 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:33:36 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:33:36 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:35:12 TRACE EmployeeController:95 - logout
+2021-04-30 11:35:18 TRACE EmployeeController:75 - login
+2021-04-30 11:35:18 TRACE EmployeeDaoCass:132 - name is DepartmentHead pass is Admin!
+2021-04-30 11:35:18 TRACE EmployeeDaoCass:137 - Employee is Employee [id=3, name=DepartmentHead, pass=Admin, email=Admin@yahoo.com, role=DEPARTMENTHEAD, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss2, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:18 TRACE EmployeeController:83 - Employee [id=3, name=DepartmentHead, pass=Admin, email=Admin@yahoo.com, role=DEPARTMENTHEAD, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss2, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:24 TRACE EmployeeController:95 - logout
+2021-04-30 11:35:26 TRACE EmployeeController:75 - login
+2021-04-30 11:35:26 TRACE EmployeeDaoCass:132 - name is DirectSupervisorDH pass is Admin!
+2021-04-30 11:35:26 TRACE EmployeeDaoCass:137 - Employee is Employee [id=4, name=DirectSupervisorDH, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=true, approvedForm=[], messages=[]]
+2021-04-30 11:35:26 TRACE EmployeeController:83 - Employee [id=4, name=DirectSupervisorDH, pass=Admin, email=Admin@yahoo.com, role=DIRECTSUPERVISOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss1, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=true, approvedForm=[], messages=[]]
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:40 - Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=false, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:49 - Approving DirectSupervisor
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:52 - Approving DepartmentHead
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:35:37 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:35:37 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:35:37 TRACE EmployeeServiceImpl:81 - TRUE
+2021-04-30 11:35:47 TRACE EmployeeController:95 - logout
+2021-04-30 11:35:52 TRACE EmployeeController:75 - login
+2021-04-30 11:35:52 TRACE EmployeeDaoCass:132 - name is Benefitscorrdinator pass is Admin!
+2021-04-30 11:35:52 TRACE EmployeeDaoCass:137 - Employee is Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:52 TRACE EmployeeController:83 - Employee [id=5, name=Benefitscorrdinator, pass=Admin, email=Admin@yahoo.com, role=BENEFITSCORRDINATOR, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Edgewood MD, description=Boss3, cost=0.0, gradingFormat=F, typeOfEvent=OTHER, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:38 - ApproveForm
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:40 - Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:27 - Getting Form!
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[4], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:51 - TuitionReimbursementForm [employeeId=8, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=false, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[2], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:54 - Returning array
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:44 - TuitionReimbursementForm [employeeId=0, availableReimbursement=1000.0, totalReimbursement=1000.0, pendingReimbursements=0.0, awardedReimbursements=0.0, dateReceived=Fri Apr 30 00:00:00 EDT 2021, dateDue=Fri May 07 00:00:00 EDT 2021, process=OTHER, approvalTimeLimit=false, directSupervisorApproved=true, departmentHeadApproved=true, benefitsCorrdinatorApproved=false, formComplete=false, otherId=[4], isAmountChanged=false, gradeFile=, presentationFile=, urgent=false]
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:47 - Check DirectSupervisor
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:58 - Check DepartmentHead
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:65 - Check BenefitsCorrdinator
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:68 - Approving BenefitsCorrdinator
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:73 - Adding ID to Form for information to others!
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:75 - Updating Employee information
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:77 - Updating Admin information
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:88 - UpdateEmployee!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:94 - SimpleStatement!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:97 - BoundStatement!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:103 - Execute bound!
+2021-04-30 11:35:56 TRACE EmployeeDaoCass:105 - Method Complete!
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:79 - Updating Form information
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:100 - UpdateForm!
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:117 - SimpleStatement!
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:120 - BoundStatement!
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:137 - Execute bound!
+2021-04-30 11:35:56 TRACE TuitionReimbursementFormDaoCass:139 - Method Complete!
+2021-04-30 11:35:56 TRACE EmployeeServiceImpl:81 - TRUE
+2021-04-30 11:35:59 TRACE EmployeeController:95 - logout
+2021-04-30 11:36:29 TRACE EmployeeController:75 - login
+2021-04-30 11:36:29 TRACE EmployeeDaoCass:132 - name is Bob pass is Bob!
+2021-04-30 11:36:29 TRACE EmployeeDaoCass:137 - Employee is Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:36:29 TRACE EmployeeController:83 - Employee [id=0, name=Bob, pass=Bob, email=bobbyboy@yahoo.com, role=EMPLOYEE, date=Fri Apr 30 00:00:00 EDT 2021, time=19:00:00, location=Baltimore MD, description=Senior Year, cost=479.99, gradingFormat=F, typeOfEvent=SEMINARS, tuitionReimbursementForm=null, departmentHead=false, approvedForm=[], messages=[]]
+2021-04-30 11:36:34 TRACE EmployeeController:75 - login
+2021-04-30 11:37:02 TRACE EmployeeController:75 - login
