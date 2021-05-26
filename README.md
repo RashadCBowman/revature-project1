@@ -35,7 +35,17 @@ c.	Git pull origin main
 3.	Launch the rbowmanProject1 application.
 
 # Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+With postman, you will be able to send commands to the Deck Building API as follows:
+http://localhost:8080
+PUT /employee/alt: Register a user to the system.
+POST /employee/(user name): Login as the user.
+DELETE /employee: Logout the current user.
+POST /employee/(user id): Approves the following form based on the user’s id.  Admin can only use this function.
+DELETE /employee/(user id): Deny the following form based on the user’s id.  Admin can only use this function.
+POST /employee/(file name)/picture: Upload a file to the bucket
+GET 
+GET /employee/(file name)/picture: Download a file from the bucket
+
 # License
 This project uses the following license: 
 
